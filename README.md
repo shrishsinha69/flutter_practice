@@ -1,7 +1,7 @@
 # i_am_rich
 
 my first project on flutter,
-as a beginner i'm adding all of my projects in the path of my flutter course training.
+as a beginner i'm adding all of my projects in the path of my flutter course training..
 
 ## Getting Started
 
